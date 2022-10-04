@@ -41,7 +41,7 @@ public class Topic_01_Check_Environment {
 	}
 
 	@Test
-	public void TC_03_() {
+	public void TC_03_LoginFormDisplayed() {
 		
 	}
 
